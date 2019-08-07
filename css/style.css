@@ -1,0 +1,30 @@
+.nav-link{
+    font-family: 'Delius', cursive;
+}
+
+.nav-sidebar{
+    margin: 40px 0;
+}
+
+.nav-sidebar > li{
+    margin-left: 25px;
+    padding: 10px 0;
+}
+
+.main{
+    font-family: 'Acme', sans-serif;
+    padding-top: 15px;
+}
+
+.nav-sidebar > li a{
+    color: black;
+}
+
+.blue{
+    background-color: grey;
+}
+
+footer div a{
+    color: black;
+}
+
